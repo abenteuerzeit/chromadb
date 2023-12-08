@@ -1,0 +1,15 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+azure-storage-blob
+PyPDF2
+langchain==0.0.170
+python-dotenv
+requests
+openai
+chromadb==0.3.23
+Chroma==0.2.0
+openai==0.27.0
+tiktoken==0.4.0
