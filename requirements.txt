@@ -5,7 +5,7 @@
 azure-functions
 azure-storage-blob
 PyPDF2
-langchain==0.0.170
+langchain==0.0.329
 python-dotenv
 requests
 openai
